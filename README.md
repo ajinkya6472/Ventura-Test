@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Design
+- Component
+    - IPO List
+        - Card with details
+        - List of cards
+    - IPO Details Page
+        - Header with Home navigator and Download option
+        - IPO Details
+        - IPO Timeline
+
+
