@@ -13,12 +13,6 @@ import { Route, Routes } from 'react-router-dom';
 function App() {
   return (
     <div className="App">
-      {/* <Cards data={ipoData} /> */}
-      {/* <Details data={ipoData} /> */}
-      {/* <Navigator /> */}
-      {/* <Timeline /> */}
-      {/* <About /> */}
-      {/* <IpoDetails data={ipoData} /> */}
       <Routes>
         <Route path="/home" element={<ListIPO data={ipoData} />} />
         <Route path="/details" element={<IpoDetails data={ipoData} />} />
